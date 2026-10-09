@@ -1,4 +1,4 @@
-# Antecedent left atrial remodeling, APOE ε4, and later brain change (Framingham Offspring Study)
+# APOE ε4 Modifies the Association of Left Atrial Remodeling With Brain Aging (Framingham Offspring Study)
 
 Analysis code for the manuscript. **No data are included.** Framingham Heart Study data are available to
 approved investigators through dbGaP (study phs000007).
